@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Puneeth
 
-<!--
-**puniaiml/puniaiml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Graduate | 🤖 Computer Science and Data Science Enthusiast | 📱 Flutter Developer
 
-Here are some ideas to get you started:
+🚀 About Me
+🔭 Working on: AI + Flutter Projects
+🌱 Learning: Machine Learning, Deep Learning
+🎯 Goal: Higher Studies in abroad & become an Engineer
+💬 Ask me about: Python, Machine Lerning, Deep Learning, Data Science, DBMS, Supabase, Firebase, Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Languages: Python, Dart, Java, C
+Frameworks: Flutter, TensorFlow, Keras
+Tools: Firebase, Git, MongoDB, Supabase
+
+📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/puneethas26/
+Email: puneethas30@gmail.com

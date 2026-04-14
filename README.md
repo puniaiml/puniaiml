@@ -59,13 +59,6 @@
 
 ---
 
-## ⚡ Fun Touch (Optional but 🔥)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 <p align="center">
   ⭐️ From <b>Puneeth</b> — Building Smart AI Systems 🚀

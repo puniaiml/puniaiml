@@ -19,7 +19,7 @@
 - 🌱 Learning: **Machine Learning, Deep Learning & Data Science**  
 - 🎯 Goal: **Higher Studies Abroad & Become an Engineer**  
 - 💬 Ask me about:  
-  `Python` `Machine Learning` `Deep Learning` `Data Science` `DBMS` `Supabase` `Firebase` `Flutter`
+  `Python` `Machine Learning` `Deep Learning` `Data Science` `Computer Science` `DBMS` `Supabase` `Firebase` `Flutter`
 
 ---
 

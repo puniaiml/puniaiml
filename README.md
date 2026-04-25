@@ -92,6 +92,4 @@
 
 ---
 
-<p align="center">
-  ⭐️ From <b>Puneeth</b> — Building Intelligent Systems with AI 🚀
-</p>
+

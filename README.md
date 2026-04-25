@@ -57,7 +57,13 @@
 
 ### ⚙️ Frameworks & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,flask,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=flutter,flask" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Supabase-Backend%20as%20a%20Service-green?style=for-the-badge&logo=supabase"/>
+  <img src="https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase"/>
 </p>
 
 ---
